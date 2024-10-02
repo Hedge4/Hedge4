@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a developer working on [GodBot](https://github.com/Hedge4/godvillebot), a custom Discord bot for a Discord server centered around the mobile and desktop comedy game [Godville](https://godvillegame.com/login).
+I love a fun programming project from time to time, and don't know how to end this sentence.
+
+You can find me on GitHub, Discord (@wawajabba), [Ko-Fi (wawajabba)](https://ko-fi.com/wawajabba), or at [heddevanheerde4@gmail.com](mailto:heddevanheerde4@gmail.com).
+
+Thanks for visiting my profile!
+
 <!--
 **Hedge4/Hedge4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
